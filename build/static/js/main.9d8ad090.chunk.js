@@ -1,0 +1,2 @@
+(this.webpackJsonphello=this.webpackJsonphello||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var l=n(0),o=n.n(l),r=n(2),c=n.n(r);n(8);var a=function(){return o.a.createElement("div",null,"Hello ","World my-first-static")};c.a.render(o.a.createElement(a,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.9d8ad090.chunk.js.map
