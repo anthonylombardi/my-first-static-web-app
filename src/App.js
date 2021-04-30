@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  const value = 'Worldx my-first-static';
+  const value = 'World my-first-static';
   return <div>Hello {value}</div>;
 }
 
